@@ -1,5 +1,33 @@
 # 💫 About Me:
-I’m passionate about Web Development, ReactJS, NodeJS.<br>I love building small projects, improving UI/UX, and learning new technologies every day.<br>Currently Working On<br>  .MERN Stack development<br>  .Mini project builds and practice tasks<br>  .Frontend using React<br>Skills<br>HTML, CSS, Bootstrap 5, JavaScript<br>React JS, Node.js, Express, MongoDB, SQL.<br>Learning Goals<br>.Become a full-stack web developer<br>.Improve backend API development<br>.Build real-world MERN applications<br>Connect With Me<br>.https://its33shubh.github.io/portfolio/
+# About Me
+I am passionate about Web Development, ReactJS, and NodeJS.  
+I enjoy building small projects, improving user interfaces, and learning new technologies every day.
+
+---
+
+# Currently Working On
+- MERN Stack development  
+- Mini project builds and practice tasks  
+- Frontend development using React
+
+---
+
+# Skills
+- HTML, CSS, Bootstrap 5, JavaScript  
+- React JS, Node.js, Express, MongoDB, SQL
+
+---
+
+# Learning Goals
+- Become a full-stack web developer  
+- Improve backend API development  
+- Build real-world MERN applications
+
+---
+
+# Connect With Me
+Portfolio: https://its33shubh.github.io/portfolio/
+
 
 
 ## 🌐 Socials:
