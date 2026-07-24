@@ -62,14 +62,10 @@ I enjoy building scalable backend systems, modern web applications, and solving 
 - 🤖 AI Integration
 
 ---
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Its33shubh&show_icons=true&theme=github_dark&hide_border=true" />
 
 ## 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=Its33shubh&theme=github-dark&hide_border=true" />
-
 
 ---
 
