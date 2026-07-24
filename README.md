@@ -1,16 +1,99 @@
-# 💫 About Me:
-##✨ About Me<br>I am passionate about Web Development, ReactJS, and NodeJS.  <br>I enjoy building small projects, improving user interfaces, and learning new technologies every day.<br><br>---<br><br>## 🔭 Currently Working On<br>- MERN Stack development  <br>- Mini project builds and practice tasks  <br>- Frontend development using React<br><br>---<br><br>## 🧰 Skills<br>- HTML, CSS, Bootstrap 5, JavaScript  <br>- React JS, Node.js, Express, MongoDB, SQL<br><br>---<br><br>## 🌱 Learning Goals<br>- Become a full-stack web developer  <br>- Improve backend API development  <br>- Build real-world MERN applications<br><br>---<br><br>## 🔗 Connect With Me<br>Portfolio: https://its33shubh.github.io/portfolio/<br>
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shubh_kaklotar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shubham-kaklotar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamkakloter123@gmail.com) 
+# Hi 👋 I'm Shubham Kaklotar
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Its33shubh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+### 🚀 Full Stack Developer | MERN Stack | Backend Developer | AI Enthusiast
 
-![](https://streak-stats.demolab.com?user=Its33shubh&theme=tokyonight&hide_border=false)
+<p>
+I enjoy building scalable backend systems, modern web applications, and solving real-world problems through code.
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Its33shubh&theme=tokyonight&hide_border=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Developer;Node.js+%7C+React.js+%7C+MongoDB;Always+Learning+New+Technologies" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+# 💫 About Me
+
+- 💻 Full Stack Developer specializing in the MERN Stack
+- 🚀 Passionate about Backend Development & REST APIs
+- 🌱 Currently learning Next.js, Docker, AWS & System Design
+- 🤖 Exploring AI-powered Web Applications
+- 💡 I enjoy solving real-world problems with clean and scalable code
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- 🔥 Advanced Node.js
+- ⚡ System Design
+- 🚀 Next.js
+- 🐳 Docker
+- ☁️ AWS Cloud
+- 🤖 AI Integration
+
+---
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Its33shubh&show_icons=true&theme=github_dark&hide_border=true" />
+
+## 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=Its33shubh&theme=github-dark&hide_border=true" />
+
+
+---
+
+
+# 🌎 Connect With Me
+
+- 💼 LinkedIn : (https://www.linkedin.com/in/shubham-kaklotar/)
+- 📧 Email : shubhamkakloter123@gmail.com
+- 🌐 Portfolio : (https://its33shubh.github.io/portfolio/)
+
+---
+
+# 💭 Developer Philosophy
+
+> "Learn. Build. Improve. Repeat."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+Happy Coding ❤️
+
+</div>
